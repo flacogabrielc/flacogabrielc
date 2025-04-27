@@ -19,6 +19,9 @@
 <p align="left">
 </p>
 
+---
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -53,6 +56,9 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/> -->
 
 </div>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flacogabrielc&show_icons=true&locale=en&layout=compact" alt="flacogabrielc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flacogabrielc&show_icons=true&locale=en" alt="flacogabrielc" /></p>
